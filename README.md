@@ -1,26 +1,32 @@
 # Portfolio-Demo
 
+A project in Figma with the aim to create a first draft of my online portfolio. Will be updated further on. 
+See below for assets used.
+
+
+## FONTS
+
 Google Fonts:
 
 MULISH
+https://fonts.google.com/share?selection.family=Mulish:wght@300;400;500;700
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dokdo&family=Mulish:wght@200;300;400;600;700&family=Raleway:wght@100;500;700&family=Reenie+Beanie&display=swap" rel="stylesheet">
-
-QUESTRIAL
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dokdo&family=Mulish:wght@200;300;400;600;700&family=Questrial&family=Raleway:wght@100;500;700&family=Reenie+Beanie&display=swap" rel="stylesheet">
-
-DIDACT GOTHIC
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Dokdo&family=Mulish:wght@200;300;400;600;700&family=Questrial&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;700&display=swap" rel="stylesheet">
 
 ZEN KAKU GOTHIC NEW
+[https://fonts.google.com/share?selection.family=Zen+Kaku+Gothic+New:wght@300](https://fonts.google.com/share?selection.family=Zen+Kaku+Gothic+New:wght@300;400;500;700;900)
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Dokdo&family=Mulish:wght@200;300;400;600;700&family=Questrial&family=Zen+Kaku+Gothic+New:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+
+## ICONS
+
+For icons I've used Font Awesome.
+https://fontawesome.com/
+
+## IMAGES
+
 
 Logos & Legal usage GITHUB
 https://github.com/logos
